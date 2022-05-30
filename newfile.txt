@@ -1,0 +1,8 @@
+Git add:
+Commit your changes to the cache
+
+Git commit:
+Submit the cache modified file to the local repository 
+
+Git push:
+Submit the modification of the local repository  to the remote repository 
